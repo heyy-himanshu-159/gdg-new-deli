@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER — Sartorial Luxury & Architectural Forms",
+  "description": "Editorial luxury fashion atelier exploring architectural drape, untreated alpine yarns, and trans-seasonal curated capsules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
